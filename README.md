@@ -1,8 +1,8 @@
 # DepQuery
 
-####功能：快速查询项目依赖（Maven、Gradle、Ivy）
+#### 功能：快速查询项目依赖（Maven、Gradle、Ivy）
 
-####功能演示图：
+#### 功能演示图：
 
 ![](http://ww1.sinaimg.cn/large/68f7efe0gy1fjr6ysbwqng212w10o4qz.gif)
 
